@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "seamless_loading_screen",
+  "id": "seamless_loading_screen_renewed",
   "version": "${version}",
 
-  "name": "Seamless Loading Screen",
+  "name": "Seamless Loading Screen: Renewed",
   "description": "Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it",
   "authors": [
     "Minenash"
   ],
   "contact": {
-    "issues": "https://github.com/Minenash/Seamless-Loading-Screen/issues",
-    "sources": "https://github.com/Minenash/Seamless-Loading-Screen"
+    "issues": "https://github.com/EmmaKnijn/Seamless-Loading-Screen-Renewed/issues",
+    "sources": "https://github.com/EmmaKnijn/Seamless-Loading-Screen-Renewed"
   },
 
   "license": "MIT",
@@ -34,6 +34,6 @@
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
-    "minecraft": "1.18.x"
+    "minecraft": "1.19.x"
   }
 }
